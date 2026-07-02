@@ -1,5 +1,5 @@
 {
-  "name": "my-lib-practice",
+  "name": "@zakzakst/my-lib-practice",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/zakzakst/my-lib-practice#readme",
@@ -34,5 +34,8 @@
     "@types/react": "^19.2.17",
     "tsup": "^8.5.1",
     "typescript": "5.9"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

@@ -18,3 +18,7 @@ git tag // 設定を確認
 git push origin main
 git push origin v1.0.0
 ```
+
+```
+npm pack
+```
